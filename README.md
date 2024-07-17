@@ -46,5 +46,4 @@ MONGO_URL =
 ```bash
 npm run dev
 ```
-# idealistraj09 💖
 
